@@ -51,7 +51,6 @@ The `flash` function just iterate `merge` function for paired reads in the given
 	Same parameter with *min_overlap* of `merge`. The parameter value is applied for all sequence pairs.
 	- **min_identity**: *bool*
 	Same parameter with *min_overlap* of `merge`. The parameter value is applied for all sequence pairs.
-	
 	- **max_identity**: *bool*
 	Same parameter with *min_overlap* of `merge`. The parameter value is applied for all sequence pairs.
 	- **show_progress**: *bool*
